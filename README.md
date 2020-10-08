@@ -12,7 +12,7 @@ The taxon Elasmobranchii (sharks and rays) is one of the long-established evolut
 The resources and products from this project are accessible at https://transcriptome.riken.jp/squalomix/.
 
 ## Our (short) history
-Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF (Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771 https://www.nature.com/articles/s41559-018-0673-5). 
+Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF (Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771 https://www.nature.com/articles/s41559-018-0673-5). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
 
 ## Our technical basis
 We released the iconHi-C (inexpensive and controllable Hi-C) protocol for adaptable Hi-C data acquisition (Kadota et al., 2018. GigaScience 9: giz158 https://doi.org/10.1093/gigascience/giz158) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences can now be validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs (Uno et al., 2020. bioRxiv https://www.biorxiv.org/content/10.1101/2020.09.08.286724v1). 
