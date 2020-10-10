@@ -8,13 +8,13 @@ Our project Squalomix aims at unveiling the unique evolutionary trajectory of sh
 ## Why sharks? Why not done earlier?
 The taxon Elasmobranchii (sharks and rays) is one of the long-established evolutionary lineages of vertebrates severely understudied at the molecular level. This limitation is attributable to the long-standing absence of their whole genome sequence information, resulting from the elusiveness and low fecundity of those animals, as well as the large and repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for genome sequencing. 
 
-## Our products
+## Our sequencing products
 The resources and products from this project are accessible at or linked from [our original sequence archive](https://transcriptome.riken.jp/squalomix/). Please note that when the preparation of improved versions is underway, we may not release our genome assemblies at NCBI.
 
-## Our species list
+## Species
 We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://natureecoevocommunity.nature.com/posts/39600-decoding-shark-genomes-with-three-species-selected-for-different-reasons) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of September 2020 is provided as a part of the introductory movie linked above. 
 
-## Our (short) history
+## History
 Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
 
 ## Our technical basis
