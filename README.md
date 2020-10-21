@@ -1,7 +1,7 @@
 # Squalomix - shark genomics and beyond
 
 ## What is 'Squalomix'?
-Our project Squalomix aims at unveiling the unique evolutionary trajectory of sharks and rays and is sustained by tight collaborations involving an academic sequencing core facility and multiple public aquariums. By means of multimodal omics and molecular evolutionary approaches, it tackles various biological questions including morphological evolution, sensory systems, and reproduction including sex determination. The project overview is presented in [this introductory movie](https://youtu.be/3VG6t4Bqt8w) prepared for [Biodiversity Genomics 2020 Conference](https://www.sanger.ac.uk/science/biodiversity-genomics-2020/) held online in October 2020.
+Our project Squalomix aims at unveiling the unique evolutionary trajectory of sharks and rays and is sustained by tight collaborations involving an academic sequencing core facility and multiple public aquariums. By means of multimodal omics and molecular evolutionary approaches, it tackles various biological questions including morphological evolution, sensory systems, and reproduction including sex determination. The project overview is presented in [this introductory movie](https://youtu.be/3VG6t4Bqt8w) prepared for [Biodiversity Genomics 2020 Conference](https://www.sanger.ac.uk/science/biodiversity-genomics-2020/) held online in October 2020. Very importantly, we don't stick to de novo sequencing in person and are rather open to coorditaion with other projects (e.g., VGP, Vertebrate Genome Project) for contributing complimentary samples and analyses in order to maximize existing resources.
 
 ![logo](Squalomix-logo2.jpg)
 
@@ -21,3 +21,5 @@ Previously, we reported interim results of our genome analysis on three shark sp
 For our previous publication in 2018, we produced all short read sequence data in-house at the DNA Analysis Facility operated inside the [Laboratory for Phyloinformatics, RIKEN BDR](https://www.bdr.riken.jp/en/research/labs/kuraku-s/). Our genome assembly also employed mate-pair reads produced with [our protocol guide 'iMate'](https://www.slideshare.net/xsighex/imate-protocol-guide-version-20).
 
 We released the 'iconHi-C' (inexpensive and controllable Hi-C) protocol for adaptable Hi-C data acquisition ([Kadota et al., 2018. GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158)) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences can now be validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs ([Uno et al., 2020. bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.08.286724v1)). 
+
+
