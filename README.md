@@ -12,7 +12,31 @@ The taxon Elasmobranchii (sharks and rays) is one of the most long-established e
 The resources and products from this project are accessible at or linked from [our original sequence archive](https://transcriptome.riken.jp/squalomix/). 
 
 ## Species
-We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://natureecoevocommunity.nature.com/posts/39600-decoding-shark-genomes-with-three-species-selected-for-different-reasons) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of September 2020 is provided as a part of the introductory movie linked above. 
+We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://natureecoevocommunity.nature.com/posts/39600-decoding-shark-genomes-with-three-species-selected-for-different-reasons) for more details of our species choice　in the published draft genome sequencing. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of September 2020 is provided below and in the introductory movie linked above. 
+
+| Species | Status of genome sequencing (if not stated otherwise) |
+----|----|
+| Brownbanded bamboo shark  *Chiloscyllium punctatum* | Draft Cpunctatum_v1.0, v2.1, Improvement ongoing |
+| Whale shark  *Rhincodon typus* | Draft Rtypus_kobe_v1.0, Improvement ongoing |
+| Cloudy catshark  *Scyliorhinus torazame*  | Draft Storazame_v1.0, Improvement ongoing |
+| Zebra shark  *Stegostoma fasciatum*  | Ongoing |
+| Megamouth shark  *Megachasma pelagios*  | Ongoing |
+| Basking shark  *Cetorhinus maximus*  | Ongoing |
+| Zebra bullhead shark *Heterodontus zebra*  | Currently only transcriptome |
+| Coral catshark *Atelomycterus marmoratus*  | Currently only transcriptome |
+| Sandbar shark *Carcharhinus plumbeus*  | Currently only transcriptome |
+| Ocellate spot skate *Okamejei kenojei*  | Currently only transcriptome |
+| Red stingray *Hemitrygon akajei*  | Currently only transcriptome |
+| Japanese bullhead shark *Heterodontus japonicus*  | Currently only transcriptome |
+| Japanese electric ray *Narke japonica*  | Currently only transcriptome |
+| Frilled shark *Chlamydoselachus anguineus*  | Currently only transcriptome |
+| Brown guitarfish *Rhinobatos schlegelii*  | Currently only transcriptome |
+| Shark ray *Rhina ancylostoma*  | Currently only transcriptome |
+| Slendertail lanternshark *Etmopterus molleri*  | Currently only transcriptome |
+| Japanese sawshark *Pristiophorus japonicus*  | Currently only transcriptome |
+| Japanese angelshark *Squatina japonica*  | Currently only transcriptome |
+| Shortspine spurdog *Squalus mitsukurii*  | Currently only transcriptome |
+
 
 ## History
 Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
