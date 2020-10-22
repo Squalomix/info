@@ -29,7 +29,7 @@ We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium 
 | Red stingray *Hemitrygon akajei*  | Currently only transcriptome |
 | Japanese bullhead shark *Heterodontus japonicus*  | Currently only transcriptome |
 | Japanese sleeper ray *Narke japonica*  | Currently only transcriptome |
-| Frilled shark *Chlamydoselachus anguineus*  | Currently only transcriptome |
+| Frilled shark *Chlamydoselachus anguineus*  | To be started jointly with VGP, Transcriptome ongoing |
 | Brown guitarfish *Rhinobatos schlegelii*  | Currently only transcriptome |
 | Shark ray *Rhina ancylostoma*  | Currently only transcriptome |
 | Slendertail lanternshark *Etmopterus molleri*  | Currently only transcriptome |
