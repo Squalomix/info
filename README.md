@@ -3,6 +3,9 @@
 ## What is 'Squalomix'?
 Our project Squalomix aims at unveiling the unique evolutionary trajectory of sharks and rays and is sustained by tight collaborations involving an academic sequencing core facility and multiple public aquariums. By means of multimodal omics and molecular evolutionary approaches, it tackles various biological questions including morphological evolution, sensory systems, and reproduction including sex determination. The project overview is presented in [this introductory movie](https://youtu.be/3VG6t4Bqt8w) prepared for [Biodiversity Genomics 2020 Conference](https://www.sanger.ac.uk/science/biodiversity-genomics-2020/) held online in October 2020. Very importantly, we don't stick to de novo sequencing in person and are rather open to coorditaion with other projects (e.g., VGP, Vertebrate Genome Project) for contributing complimentary samples and analyses in order to maximize existing resources.
 
+For updates, follow us on [Twitter](https://twitter.com/Squalomix4earth).
+
+
 ![logo](Squalomix-logo2.jpg)
 
 ## Why sharks? Why not done earlier?
