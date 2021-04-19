@@ -21,7 +21,7 @@ Status of genome sequencing<br>
 T, transcriptome reads<br>
 S, illumina short genomic reads<br>
 X, 10x Genomics Chromium linked reads<br>
-N, Oxford nanopore reads
+N, Oxford nanopore reads<br>
 P, Pacbio CLR reads<br>
 H, PacBio HiFi reads<br>
 C, Hi-C reads<br>
