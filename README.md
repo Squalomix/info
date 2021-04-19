@@ -49,6 +49,7 @@ C, Hi-C reads<br>
 | Japanese sawshark *Pristiophorus japonicus*  | O | | | | | |
 | Japanese angelshark *Squatina japonica*  | O | | | | | |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | | | | |
+
 Please note that we don't necessarily list the species for which we do not have an initiative in genome sequencing.
 
 ## History
