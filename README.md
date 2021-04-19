@@ -21,6 +21,7 @@ Status of genome sequencing<br>
 T, transcriptome reads<br>
 S, illumina short genomic reads<br>
 X, 10x Genomics Chromium linked reads<br>
+N, Oxford nanopore reads
 P, Pacbio CLR reads<br>
 H, PacBio HiFi reads<br>
 C, Hi-C reads<br>
@@ -29,26 +30,26 @@ C, Hi-C reads<br>
 
 | Species |T|S|X|P|H|C|
 |----|----|----|----|----|----|----|
-| #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O |  | O |  | O |
-| Whale shark  *Rhincodon typus* | O | O | O |  |  | O |
-| #Cloudy catshark  *Scyliorhinus torazame*  | O | O |  | | | O |
-| #Zebra shark  *Stegostoma fasciatum*  | O | O |  | | O | O |
-| #Megamouth shark  *Megachasma pelagios*  | O | O | O |  |  | O |
-| Basking shark  *Cetorhinus maximus*  |  | O | O |  |  |  |
-| Zebra bullhead shark *Heterodontus zebra*  | O | | | | | |
-| Coral catshark *Atelomycterus marmoratus*  | O | | | | | |
-| Sandbar shark *Carcharhinus plumbeus*  | O | | | | | |
-| Ocellate spot skate *Okamejei kenojei*  | O | | | | | |
-| #Red stingray *Hemitrygon akajei*  | O | | | | | |
-| Japanese bullhead shark *Heterodontus japonicus*  | O | | | | | |
-| Japanese sleeper ray *Narke japonica*  | O | | | | | |
-| Frilled shark *Chlamydoselachus anguineus* | O | | | | | |
-| #Brown guitarfish *Rhinobatos schlegelii*  | O | | | | | |
-| Shark ray *Rhina ancylostoma*  | O | | | | | |
-| #Slendertail lanternshark *Etmopterus molleri*  | O | | | | | |
-| Japanese sawshark *Pristiophorus japonicus*  | O | | | | | |
-| Japanese angelshark *Squatina japonica*  | O | | | | | |
-| Shortspine spurdog *Squalus mitsukurii*  | O | | | | | |
+| #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O | O |  | O |  | O |
+| Whale shark  *Rhincodon typus* | O | O | O | |   |  | O |
+| #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | | O |
+| #Zebra shark  *Stegostoma fasciatum*  | O | O |  ||   | O | O |
+| #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    |  | O |
+| Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
+| Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | |
+| Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
+| Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | |
+| Ocellate spot skate *Okamejei kenojei*  | O | | | |  | | |
+| #Red stingray *Hemitrygon akajei*  | O | | | |  | | |
+| Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | |
+| Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
+| Frilled shark *Chlamydoselachus anguineus* | O | | |  | | | |
+| #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | | |
+| Shark ray *Rhina ancylostoma*  | O | | | |  | | |
+| #Slendertail lanternshark *Etmopterus molleri*  | O | | | |  | | |
+| Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | |
+| Japanese angelshark *Squatina japonica*  | O | | ||   | | |
+| Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
 
 Please note that we don't necessarily list the species for which our collaborators take an initiative in genome sequencing.
 
