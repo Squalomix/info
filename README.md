@@ -51,7 +51,7 @@ C, Hi-C reads<br>
 | Japanese angelshark *Squatina japonica*  | O | | ||   | | |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
 
-Please note that we don't necessarily list the species for which our collaborators take an initiative in genome sequencing.
+Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
 
 ## History
 Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
