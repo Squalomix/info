@@ -17,28 +17,38 @@ The resources and products from this project are accessible at or linked from [o
 ## Species
 We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://natureecoevocommunity.nature.com/posts/39600-decoding-shark-genomes-with-three-species-selected-for-different-reasons) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of September 2020 is provided below and in the introductory movie linked above. 
 
-| Species | Status of genome sequencing (if not stated otherwise) |
-----|----|
-| Brownbanded bamboo shark  *Chiloscyllium punctatum* | Draft Cpunctatum_v1.0, v2.1, Improvement ongoing |
-| Whale shark  *Rhincodon typus* | Draft Rtypus_kobe_v1.0, Improvement ongoing |
-| Cloudy catshark  *Scyliorhinus torazame*  | Draft Storazame_v1.0, Improvement ongoing |
-| Zebra shark  *Stegostoma fasciatum*  | Ongoing |
-| Megamouth shark  *Megachasma pelagios*  | Ongoing |
-| Basking shark  *Cetorhinus maximus*  | Ongoing |
-| Zebra bullhead shark *Heterodontus zebra*  | Currently only transcriptome |
-| Coral catshark *Atelomycterus marmoratus*  | Currently only transcriptome |
-| Sandbar shark *Carcharhinus plumbeus*  | Currently only transcriptome |
-| Ocellate spot skate *Okamejei kenojei*  | Currently only transcriptome |
-| Red stingray *Hemitrygon akajei*  | Currently only transcriptome |
-| Japanese bullhead shark *Heterodontus japonicus*  | Currently only transcriptome |
-| Japanese sleeper ray *Narke japonica*  | Currently only transcriptome |
-| Frilled shark *Chlamydoselachus anguineus*  | To be started jointly with VGP, Transcriptome ongoing |
-| Brown guitarfish *Rhinobatos schlegelii*  | Currently only transcriptome |
-| Shark ray *Rhina ancylostoma*  | Currently only transcriptome |
-| Slendertail lanternshark *Etmopterus molleri*  | Currently only transcriptome |
-| Japanese sawshark *Pristiophorus japonicus*  | Currently only transcriptome |
-| Japanese angelshark *Squatina japonica*  | Currently only transcriptome |
-| Shortspine spurdog *Squalus mitsukurii*  | Currently only transcriptome |
+Status of genome sequencing
+T, transcriptome reads
+S, illumina short genomic reads
+X, 10x Genomics Chromium linked reads
+P, Pacbio CLR reads
+H, PacBio HiFi reads
+C, Hi-C reads
+#, Our flagship species
+
+
+| Species |T|S|X|P|H|C|
+----|----|----|----|----|----|
+| #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O |  | O |  | O |
+| Whale shark  *Rhincodon typus* | O | O | O |  |  | O |
+| #Cloudy catshark  *Scyliorhinus torazame*  | O | O |  | | | O |
+| #Zebra shark  *Stegostoma fasciatum*  | O | O | O | | O | O |
+| #Megamouth shark  *Megachasma pelagios*  | O | O | O |  |  | O |
+| Basking shark  *Cetorhinus maximus*  |  | O | O |  |  |  |
+| Zebra bullhead shark *Heterodontus zebra*  | O | | | | | |
+| Coral catshark *Atelomycterus marmoratus*  | O | | | | | |
+| Sandbar shark *Carcharhinus plumbeus*  | O | | | | | |
+| Ocellate spot skate *Okamejei kenojei*  | O | | | | | |
+| #Red stingray *Hemitrygon akajei*  | O | | | | | |
+| Japanese bullhead shark *Heterodontus japonicus*  | O | | | | | |
+| Japanese sleeper ray *Narke japonica*  | O | | | | | |
+| Frilled shark *Chlamydoselachus anguineus* | O | | | | | |
+| #Brown guitarfish *Rhinobatos schlegelii*  | O | | | | | |
+| Shark ray *Rhina ancylostoma*  | O | | | | | |
+| #Slendertail lanternshark *Etmopterus molleri*  | O | | | | | |
+| Japanese sawshark *Pristiophorus japonicus*  | O | | | | | |
+| Japanese angelshark *Squatina japonica*  | O | | | | | |
+| Shortspine spurdog *Squalus mitsukurii*  | O | | | | | |
 
 
 ## History
