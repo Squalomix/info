@@ -28,7 +28,7 @@ C, Hi-C reads
 
 
 | Species |T|S|X|P|H|C|
-----|----|----|----|----|----|
+|----|----|----|----|----|----|----|
 | #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O |  | O |  | O |
 | Whale shark  *Rhincodon typus* | O | O | O |  |  | O |
 | #Cloudy catshark  *Scyliorhinus torazame*  | O | O |  | | | O |
