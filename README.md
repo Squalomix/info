@@ -56,17 +56,18 @@ Please note that we don't  list some species for which our collaborators take an
 ## History
 The chronological information about our activity before and after the launch of the project is included below. Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
 
-|Month-Year| Event|
+|Year-Month| Event|
 |----|----|
-|April 2021| Briefing for (potential) Japanese collaborators working at aquariums |
-|January 2021| Briefing for (potential) international collaborators |
-|November 2020| Squalomix joined EBP as an affiliated project|
-|November 2020| Presentation about our activity at Virtual Annual Conference of Oceania Chondrichthyes Society | 
-|October 2020| Presentation about our activity at Virtual Conference BioGenomics 2020 |
-|September 2020| The project Squalomix officially launched|
-|July 2019 | Presentation about our activity at on-site American Elasmobranch Society Meeting in Snowbird|
-|June 2019 | Presentation about our activity at on-site International Whale Shark Conference in Exmouth|
-|Oct 2018 | Publication of our first landmark paper for shark genome analysis |
+|2021 Apr| Briefing for (potential) Japanese collaborators working at aquariums |
+|2021 Jan| Briefing for (potential) international collaborators |
+|2020 Nov| Squalomix joined EBP as an affiliated project|
+|2020 Nov| Presentation about our activity at Virtual Annual Conference of Oceania Chondrichthyes Society | 
+|2020 Oct| Presentation about our activity at [Virtual Conference BioGenomics 2020](https://www.sanger.ac.uk/science/biodiversity-genomics-2020/) |
+|2020 Sep| The project Squalomix officially launched|
+|2019 Jul| Presentation about our activity at on-site American Elasmobranch Society Meeting in Snowbird|
+|2019 Jun| Presentation about our activity at on-site 5th International Whale Shark Conference in Exmouth|
+|2018 Dec| Presentation about our activity at on-site biennial meeting for Japanese Society of Elasmobranch Studies|
+|2018 Oct| Publication of our first landmark paper for shark genome analysis |
 
 
 ## Our technical basis
