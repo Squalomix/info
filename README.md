@@ -54,7 +54,17 @@ C, Hi-C reads<br>
 Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
 
 ## History
-Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
+The chronological information about our activity before and after the launch of the project is included below. Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
+
+|Month-Year| Event|
+|----|----|
+|April 2021| Briefing for (potential) Japanese collaborators |
+|January 2021| Briefing for (potential) international collaborators |
+|November 2020| Squalomix joined EBP as an affiliated project|
+|October 2020| Presentation about our activity at Virtual Conference BioGenomics 2020 |
+|September 2020| The project Squalomix officially launched|
+|Oct 2018 | Publication of our first landmark genome analysis paper|
+
 
 ## Our technical basis
 For our previous publication in 2018, we produced all short read sequence data in-house at the DNA Analysis Facility operated inside the [Laboratory for Phyloinformatics, RIKEN BDR](https://www.bdr.riken.jp/en/research/labs/kuraku-s/). Our genome assembly also employed mate-pair reads produced with [our protocol guide 'iMate'](https://www.slideshare.net/xsighex/imate-protocol-guide-version-20).
