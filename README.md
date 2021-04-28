@@ -61,7 +61,7 @@ The chronological information about our activity before and after the launch of 
 |2021 Apr| Briefing for (potential) Japanese collaborators working at aquariums |
 |2021 Jan| Briefing for (potential) international collaborators |
 |2020 Nov| Squalomix joined EBP as an affiliated project|
-|2020 Nov| Presentation about our activity at Virtual Annual Conference of Oceania Chondrichthyes Society | 
+|2020 Nov| Presentation about our activity at Virtual Annual Conference of Oceania Chondrichthyan Society | 
 |2020 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2020](https://www.sanger.ac.uk/science/biodiversity-genomics-2020/) |
 |2020 Sep| The project Squalomix officially launched|
 |2019 Jul| Presentation about our activity at on-site American Elasmobranch Society Meeting in Snowbird|
