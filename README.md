@@ -33,7 +33,7 @@ C, Hi-C reads<br>
 | #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O | O | O | O |  | O |
 | Whale shark  *Rhincodon typus* | O | O | O | |   |  | O |
 | #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | | O |
-| #Zebra shark  *Stegostoma fasciatum*  | O | O |  ||   | O | O |
+| #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |
 | #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    |  | O |
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
 | Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | |
