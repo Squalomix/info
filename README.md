@@ -61,11 +61,11 @@ The chronological information about our activity before and after the launch of 
 |2021 Apr| Project briefing for (potential) Japanese collaborators working at aquariums |
 |2021 Jan| Project briefing for (potential) international collaborators |
 |2020 Nov| Squalomix joined EBP as an affiliated project|
-|2020 Nov| Presentation about our activity at Virtual Annual Conference of Oceania Chondrichthyan Society | 
+|2020 Nov| Presentation about our activity at Virtual Annual Conference of Oceania Chondrichthyan Society (OCS) | 
 |2020 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2020](https://www.sanger.ac.uk/science/biodiversity-genomics-2020/) |
 |2020 Sep| The project Squalomix officially launched|
-|2019 Jul| Presentation about our activity at on-site American Elasmobranch Society Meeting in Snowbird|
-|2019 Jun| Presentation about our activity at on-site 5th International Whale Shark Conference in Exmouth|
+|2019 Jul| Presentation about our activity at on-site American Elasmobranch Society (AES) Meeting in Snowbird|
+|2019 Jun| Presentation about our activity at on-site 5th International Whale Shark Conference (IWSC) in Exmouth|
 |2018 Dec| Presentation about our activity at on-site biennial meeting for Japanese Society of Elasmobranch Studies|
 |2018 Oct| Publication of our first landmark paper for shark genome analysis |
 
