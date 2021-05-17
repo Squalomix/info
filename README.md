@@ -58,7 +58,7 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
-|2021 Jun| Project briefing for Japanese researchers |
+|2021 Jun| (planned) Project briefing for Japanese researchers |
 |2021 Apr| Project briefing for (potential) Japanese collaborators working at aquariums |
 |2021 Jan| Project briefing for (potential) international collaborators |
 |2020 Nov| Squalomix joined [Earth BioGenome Project (EBP)](https://www.earthbiogenome.org/) as an affiliated project|
