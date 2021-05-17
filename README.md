@@ -67,7 +67,7 @@ The chronological information about our activity before and after the launch of 
 |2019 Jul| Presentation about our activity at on-site American Elasmobranch Society (AES) Meeting in Snowbird|
 |2019 Jun| Presentation about our activity at on-site 5th International Whale Shark Conference (IWSC) in Exmouth|
 |2018 Dec| Presentation about our activity at on-site biennial meeting for Japanese Society of Elasmobranch Studies|
-|2018 Oct| Publication of our first landmark paper for shark genome analysis |
+|2018 Oct| Publication of [our first landmark paper](https://www.nature.com/articles/s41559-018-0673-5) for shark genome analysis |
 
 
 ## Our technical basis
