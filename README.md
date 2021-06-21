@@ -32,7 +32,7 @@ C, Hi-C reads (or Omni-C reads)<br>
 |----|----|----|----|----|----|----|----|
 | #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O | O | O | O |  | O |
 | Whale shark  *Rhincodon typus* | O | O | O | |   |  | O |
-| #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | | O |
+| #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | O | O |
 | #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |
 | #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    |  | O |
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
@@ -40,7 +40,7 @@ C, Hi-C reads (or Omni-C reads)<br>
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
 | Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | |
 | Ocellate spot skate *Okamejei kenojei*  | O | | | |  | | |
-| #Red stingray *Hemitrygon akajei*  | O | | | |  | | |
+| #Red stingray *Hemitrygon akajei*  | O | | | |  | O | |
 | Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | |
 | Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
 | Frilled shark *Chlamydoselachus anguineus* | O | | |  | | | |
