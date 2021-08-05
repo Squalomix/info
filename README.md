@@ -51,6 +51,7 @@ C, Hi-C reads (or Omni-C reads)<br>
 | Japanese angelshark *Squatina japonica*  | O | | ||   | | |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
 | *Bathyraja sp.*  |  | | ||   | | |
+
 Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
 
 ## History
