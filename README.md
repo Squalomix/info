@@ -40,7 +40,7 @@ C, Hi-C reads (or Omni-C reads)<br>
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
 | Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | |
 | Ocellate spot skate *Okamejei kenojei*  | O | | | |  | | |
-| #Red stingray *Hemitrygon akajei*  | O | | | |  | O | |
+| #Red stingray *Hemitrygon akajei*  | O | | | |  | O | O |
 | Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | |
 | Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
 | Frilled shark *Chlamydoselachus anguineus* | O | | |  | | | |
