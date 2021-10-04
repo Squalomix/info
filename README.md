@@ -60,7 +60,7 @@ The chronological information about our activity before and after the launch of 
 |Year-Month| Event|
 |----|----|
 |2021 Oct| (planned) Project briefing for Japanese researchers |
-|2021 Sep| (planned) Presentation about our activity at [Virtual Conference Biodiversity Genomics 2021](https://www.darwintreeoflife.org/news_item/biodiversity-genomics-2021-sequencing-genomes-across-the-planet/)  |
+|2021 Sep| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2021](https://www.darwintreeoflife.org/news_item/biodiversity-genomics-2021-sequencing-genomes-across-the-planet/)  |
 |2021 Jun| Release of the [preprint of our position paper at Authorea](https://www.authorea.com/users/386789/articles/528239-squalomix-shark-and-ray-genome-sequencing-to-analyze-their-diversity-and-evolution?commit=242658f3237d97b0b63665b4f2e2b94255b1cdee)|
 |2021 May| Our project introduced in [2021 PacBio Japan Virtual User Group Meeting](https://events.pacb.com/Japan-ugm-2021/agenda/session/512638)|
 |2021 Apr| Project briefing for (potential) Japanese collaborators working at aquariums |
