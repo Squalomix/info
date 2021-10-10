@@ -35,6 +35,8 @@ C, Hi-C reads (or Omni-C reads)<br>
 | #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | O | O |
 | #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |
 | #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    |  | O |
+| Blue shark *Prionace glauca* |  | O | | |  | O | O |
+| Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O |
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
 | Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | |
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
