@@ -46,11 +46,11 @@ C, Hi-C reads (or Omni-C reads)<br>
 | Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | |
 | Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
 | Frilled shark *Chlamydoselachus anguineus* | O | | |  | | | |
-| #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | | |
+| #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | O | O |
 | Shark ray *Rhina ancylostoma*  | O | | | |  | | |
 | #Slendertail lanternshark *Etmopterus molleri*  | O | | | |  | | |
 | Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | |
-| Japanese angelshark *Squatina japonica*  | O | | ||   | | |
+| Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
 | *Bathyraja longicaudata*  | O | | ||   | | |
 
