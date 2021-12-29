@@ -24,7 +24,7 @@ X, 10x Genomics Chromium linked reads<br>
 N, Oxford nanopore reads<br>
 P, PacBio CLR reads<br>
 H, PacBio HiFi reads<br>
-C, Hi-C reads (or Omni-C reads)<br>
+C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 #, Our flagship species<br>
 
 
