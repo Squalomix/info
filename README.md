@@ -27,10 +27,11 @@ H, PacBio HiFi reads<br>
 C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 #, Our flagship species<br>
 
+Last updated on June 22, 2022
 
 | Species |T|S|X|N|P|H|C|
 |----|----|----|----|----|----|----|----|
-| #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O | O | O | O |  | O |
+| #Brownbanded bamboo shark  *Chiloscyllium punctatum* | O | O | O | O | O | O | O |
 | Whale shark  *Rhincodon typus* | O | O | O | |   |  | O |
 | #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | O | O |
 | #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |
@@ -38,12 +39,12 @@ C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 | Blue shark *Prionace glauca* |  | O | | |  | O | O |
 | Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O |
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
-| Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | |
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
 | Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | |
 | Ocellate spot skate *Okamejei kenojei*  | O | | | |  | | |
 | #Red stingray *Hemitrygon akajei*  | O | O | | |  | O | O |
 | Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | |
+| Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | |
 | Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
 | Frilled shark *Chlamydoselachus anguineus* | O | | |  | | | |
 | #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | O | O |
@@ -52,7 +53,7 @@ C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 | Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | |
 | Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
-| *Bathyraja longicaudata*  | O | | ||   | | |
+| *Bathyraja longicaudata*  | O | | ||   | O | |
 
 Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
 
