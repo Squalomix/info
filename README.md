@@ -27,7 +27,7 @@ H, PacBio HiFi reads<br>
 C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 #, Our flagship species<br>
 
-Last updated on June 22, 2022
+Last updated on September 1, 2022
 
 | Species |T|S|X|N|P|H|C|
 |----|----|----|----|----|----|----|----|
