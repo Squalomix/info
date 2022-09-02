@@ -11,7 +11,7 @@ For updates, follow us on [Twitter](https://twitter.com/Squalomix4earth).
 ## Why sharks?
 The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing absence of their whole genome sequence information, resulting from the elusiveness and low fecundity of those animals, as well as the large and repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for genome sequencing. 
 
-## Our products
+## Access to our products
 [Data archive gateway](https://transcriptome.riken.jp/squalomix/)<br>
 [BLAST-based sequence search](https://transcriptome.riken.jp/squalomix/blast/)<br>
 [NCBI BioProject entry](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598) <br>
