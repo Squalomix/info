@@ -18,6 +18,8 @@ The taxon Elasmobranchii (sharks and rays) is one of the most long-established e
 Gene expression profiles based on published RNA-seq data ([cloudy catshark](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586); [brownbanded bamboo shark](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634))<br>
 [Zebra shark genome browser powered by JBrowse2](https://transcriptome.riken.jp/squalomix/jbrowse2_sfasciatum/?session=local-default)<br>
 
+Citation: Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, accepted. 
+
 ## Species
 We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://natureecoevocommunity.nature.com/posts/39600-decoding-shark-genomes-with-three-species-selected-for-different-reasons) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of April 2021 is provided below (also, the list as of September 2020 available in the introductory movie linked above). 
 
