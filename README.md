@@ -59,7 +59,7 @@ Last updated on September 1, 2022
 | Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | |
 | Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
-| *Rhinoraja longicaudata*  | O | | ||   | O | |
+| *Rhinoraja longicauda*  | O | | ||   | O | |
 
 Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
 
