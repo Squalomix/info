@@ -42,7 +42,7 @@ Last updated on September 1, 2022
 | #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | O | O |
 | #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |
 | #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    |  | O |
-| Blue shark *Prionace glauca* |  | O | | |  | O | O |
+| Blue shark *Prionace glauca* | O | O | | |  | O | O |
 | Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O |
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
@@ -60,6 +60,8 @@ Last updated on September 1, 2022
 | Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
 | *Rhinoraja longicauda*  | O | | ||   | O | |
+| Chimaera phantasma | O |  | | | O |  | O |
+
 
 Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
 
