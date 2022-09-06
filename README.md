@@ -60,7 +60,7 @@ Last updated on September 1, 2022
 | Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
 | *Rhinoraja longicauda*  | O | | ||   | O | |
-| Chimaera phantasma | O |  | | | O |  | O |
+| Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
 
 
 Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
