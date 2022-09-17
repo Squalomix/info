@@ -54,7 +54,7 @@ Last updated on September 1, 2022
 | Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
 | Frilled shark *Chlamydoselachus anguineus* | O | | |  | | | |
 | #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | O | O |
-| Shark ray *Rhina ancylostoma*  | O | | | |  | | |
+| Shark ray *Rhina ancylostoma*  | O | | | |  | O | |
 | #Slendertail lanternshark *Etmopterus molleri*  | O | | | |  | | |
 | Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | |
 | Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
