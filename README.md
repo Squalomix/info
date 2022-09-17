@@ -61,9 +61,10 @@ Last updated on September 1, 2022
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
 | White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | |
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
+| Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
 
 
-Please note that we don't  list some species for which our collaborators take an initiative in genome sequencing.
+This list includes some species for which our collaborators take an initiative in genome sequencing.
 
 ## History
 The chronological information about our activity before and after the launch of the project is included below. Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
