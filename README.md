@@ -24,6 +24,8 @@ Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium
 [![Squalomix trailer movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=_xXfpIc7l2E)
 </p><br>
 
+[![](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=_xXfpIc7l2E)
+
 
 ## Species
 We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://natureecoevocommunity.nature.com/posts/39600-decoding-shark-genomes-with-three-species-selected-for-different-reasons) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of April 2021 is provided below (also, the list as of September 2020 available in the introductory movie linked above). 
