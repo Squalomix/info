@@ -77,6 +77,8 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
+|2022 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2022](https://virtual.venue-av.co.uk/e/bg2022)  |
+|2022 Sep| Our position paper published in F1000Res](https://f1000research.com/articles/11-1077)  |
 |2022 Feb| Project briefing for Japanese researchers and related communities |
 |2022 Jan| Squalomix introduced as a part of the [PNAS Special Feature for EBP](https://www.pnas.org/topic/544) |
 |2021 Sep| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2021](https://www.darwintreeoflife.org/news_item/biodiversity-genomics-2021-sequencing-genomes-across-the-planet/)  |
