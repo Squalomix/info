@@ -21,7 +21,8 @@ Gene expression profiles based on published RNA-seq data ([cloudy catshark](http
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).<br> 
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_xXfpIc7l2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br>
+[![Squalomix trailer movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=_xXfpIc7l2E)
+</p><br>
 
 
 ## Species
