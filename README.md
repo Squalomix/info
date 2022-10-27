@@ -68,6 +68,7 @@ Last updated on September 1, 2022
 | White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | |
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
+| Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
 
 
 This list includes some species for which our collaborators take an initiative in genome sequencing.
@@ -77,6 +78,7 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
+|2022 Oct| Presentation about our activity at [Virtual Conference Sharks International 2022](https://www.si2022.org/)  |
 |2022 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2022](https://virtual.venue-av.co.uk/e/bg2022)  |
 |2022 Sep| Our [position paper published in F1000Res](https://f1000research.com/articles/11-1077)  |
 |2022 Feb| Project briefing for Japanese researchers and related communities |
