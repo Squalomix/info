@@ -100,8 +100,8 @@ The chronological information about our activity before and after the launch of 
 ## Original genome size and karyotype data
 
 |Species|Method| C-value (pg) | Size in basepairs (Gb)|Reference|
-|----|----|----|----|----|
-|*Scyliorhinus torazame*|->Flow cytometry<-|6.83| 6.67|Hara et al., 2018|
+|----|:----:|----:|----:|----|
+|*Scyliorhinus torazame*|Flow cytometry|6.83| 6.67|Hara et al., 2018|
 |*Chiloscyllium punctatum*|Flow cytometry|4.83|4.73|Hara et al., 2018|
 |*Rhincodon typus*|Flow cytometry|3.83|3.75|Hara et al., 2018|
 |*Stegostoma tigrinum*|Flow cytometry|3.79|3.70||
