@@ -126,7 +126,6 @@ Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/
 |*Rhincodon typus*|cultured lymphocytes|2n = 102|Uno et al., 2020|
 |*Stegostoma tigrinum*|cultured lymphocytes|2n = 102|Uno et al., 2020|
 
-Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless stated otherwise.
 
 ## Our technical basis
 For our previous publication in 2018, we produced all short read sequence data in-house at the DNA Analysis Facility operated inside the [Laboratory for Phyloinformatics, RIKEN BDR](https://www.bdr.riken.jp/en/research/labs/kuraku-s/). Our genome assembly also employed mate-pair reads produced with [our protocol guide 'iMate'](https://www.slideshare.net/xsighex/imate-protocol-guide-version-20).
