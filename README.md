@@ -97,6 +97,25 @@ The chronological information about our activity before and after the launch of 
 |2018 Dec| Presentation about our activity at on-site biennial meeting for Japanese Society of Elasmobranch Studies|
 |2018 Oct| Publication of [our first landmark paper](https://www.nature.com/articles/s41559-018-0673-5) for shark genome analysis |
 
+## Original genome size and karyotype data
+
+|Species|Method| C-value (pg) | Size in basepairs (Gb)|Reference|
+|Scyliorhinus torazame|Flow cytometry|6.83| 6.67|Hara et al., 2018|
+|Chiloscyllium punctatum|Flow cytometry|4.83|4.73|Hara et al., 2018|
+|Rhincodon typus|Flow cytometry|3.83|3.75|Hara et al., 2018|
+|Stegostoma tigrinum|Flow cytometry|3.79|Kadota et al., in prep.|
+|Chiloscyllium plagiosum|Flow cytometry|4.96||Kadota et al., in prep.|
+|Scyliorhinus canicula|Flow cytometry|5.46||Kadota et al., in prep.|
+|Atelomycterus marmoratus|Flow cytometry|4.33||Kadota et al., in prep.|
+|Carcharhinus plumbeus|Flow cytometry|3.43||Kadota et al., in prep.|
+|Hemitrygon akajei|qPCR|3.82||Kadota et al., in prep.|
+|Cetorinus maximus||||Kadota et al., in prep.|
+|Megachasma pelagios|qPCR|5.81||Kadota et al., in prep.|
+|Etrmopterus molleri|qPCR|13.34||Kadota et al., in prep.|
+|Okamejei kenojei|Flow cytometry||||
+
+
+Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless stated otherwise.
 
 ## Our technical basis
 For our previous publication in 2018, we produced all short read sequence data in-house at the DNA Analysis Facility operated inside the [Laboratory for Phyloinformatics, RIKEN BDR](https://www.bdr.riken.jp/en/research/labs/kuraku-s/). Our genome assembly also employed mate-pair reads produced with [our protocol guide 'iMate'](https://www.slideshare.net/xsighex/imate-protocol-guide-version-20).
