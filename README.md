@@ -97,7 +97,7 @@ The chronological information about our activity before and after the launch of 
 |2018 Dec| Presentation about our activity at on-site biennial meeting for Japanese Society of Elasmobranch Studies|
 |2018 Oct| Publication of [our first landmark paper](https://www.nature.com/articles/s41559-018-0673-5) for shark genome analysis |
 
-## Original genome size and karyotype data
+## Original genome size data
 
 |Species|Method| C-value (pg) | Size in basepairs (Gb)|Reference|
 |----|:----:|----:|----:|----|
@@ -115,6 +115,16 @@ The chronological information about our activity before and after the launch of 
 |*Etrmopterus molleri*|qPCR|13.34|13.04||
 |*Okamejei kenojei*|Flow cytometry|3.40|3.33||
 
+Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless stated otherwise.
+
+## Original karyotype data
+
+|Species|Cell source|Karyotype|Reference|
+|----|:----|:----:|----|
+|*Chiloscyllium punctatum*|cultured embryonic fibroblasts|2n = 106|Uno et al., 2020|
+|*Chiloscyllium plagiosum*|cultured embryonic fibroblasts|2n = 106|Uno et al., 2020|
+|*Rhincodon typus*|cultured lymphocytes|2n = 102|Uno et al., 2020|
+|*Stegostoma tigrinum*|cultured lymphocytes|2n = 102|Uno et al., 2020|
 
 Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless stated otherwise.
 
