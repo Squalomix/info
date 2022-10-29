@@ -104,16 +104,16 @@ The chronological information about our activity before and after the launch of 
 |Scyliorhinus torazame|Flow cytometry|6.83| 6.67|Hara et al., 2018|
 |Chiloscyllium punctatum|Flow cytometry|4.83|4.73|Hara et al., 2018|
 |Rhincodon typus|Flow cytometry|3.83|3.75|Hara et al., 2018|
-|Stegostoma tigrinum|Flow cytometry|3.79|Kadota et al., in prep.|
-|Chiloscyllium plagiosum|Flow cytometry|4.96||Kadota et al., in prep.|
-|Scyliorhinus canicula|Flow cytometry|5.46||Kadota et al., in prep.|
-|Atelomycterus marmoratus|Flow cytometry|4.33||Kadota et al., in prep.|
-|Carcharhinus plumbeus|Flow cytometry|3.43||Kadota et al., in prep.|
-|Hemitrygon akajei|qPCR|3.82||Kadota et al., in prep.|
-|Cetorinus maximus||||Kadota et al., in prep.|
-|Megachasma pelagios|qPCR|5.81||Kadota et al., in prep.|
-|Etrmopterus molleri|qPCR|13.34||Kadota et al., in prep.|
-|Okamejei kenojei|Flow cytometry||||
+|Stegostoma tigrinum|Flow cytometry|3.79|3.70||
+|Chiloscyllium plagiosum|Flow cytometry|4.96|4.85||
+|Scyliorhinus canicula|Flow cytometry|5.46|5.34||
+|Atelomycterus marmoratus|Flow cytometry|4.33|4.23||
+|Carcharhinus plumbeus|Flow cytometry|3.43|3.35||
+|Hemitrygon akajei|qPCR|3.82|3.74||
+|Cetorinus maximus||in progress|||
+|Megachasma pelagios|qPCR|5.81|5.68||
+|Etrmopterus molleri|qPCR|13.34|13.04||
+|Okamejei kenojei|Flow cytometry|3.40|3.33||
 
 
 Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless stated otherwise.
