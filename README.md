@@ -133,7 +133,7 @@ For our previous publication in 2018, we produced all short read sequence data i
 More recently, we released the 'iconHi-C' (inexpensive and controllable Hi-C) protocol for adaptable Hi-C data acquisition ([Kadota et al., 2018. GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158)) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences are validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs ([Uno et al., 2020. Commun. Biol. 3: 652](https://www.nature.com/articles/s42003-020-01373-7)). 
 
 ## Efforts by other parties
-There are other parties working on chondrichthyan genomics and other kinds of molecular data production. Included below are links to some of those efforts.<br>
+There are other parties working on chondrichthyan genes and genomes and other kinds of molecular data production. Included below are links to some of those efforts.<br>
 [Entries at NCBI Genomes](https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=7777) for the taxon Chondrichthyes<br>
 [Inventory at GenomeSync](http://genomesync.nig.ac.jp/statistics/?cn=7777&tree_depth=20&show=genome&show=species&show=genus&show=family&show=order&q=7777&et=1&search_complete=1&complete=words&lin=1) for the taxon Chondrichthyes<br>
 [Published studies focusing at least partly on cartiaginous fishes at PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=genome+AND+%28Chondrichthyan+OR+shark+OR+Elasmobranch+OR+Chondrichthyes+OR+skate+OR+Batoidea+OR+Batomorpha+OR+Selachimorpha%29&sort=date) (The search criterion may not be specific enough)
