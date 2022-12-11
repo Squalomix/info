@@ -101,9 +101,9 @@ The chronological information about our activity before and after the launch of 
 
 |Species|Method| C-value (pg) | Size in basepairs (Gb)|Reference|
 |----|:----:|----:|----:|----|
-|*Scyliorhinus torazame*|Flow cytometry|6.83| 6.67|Hara et al., 2018|
-|*Chiloscyllium punctatum*|Flow cytometry|4.83|4.73|Hara et al., 2018|
-|*Rhincodon typus*|Flow cytometry|3.83|3.75|Hara et al., 2018|
+|*Scyliorhinus torazame*|Flow cytometry|6.83| 6.67|[Hara et al., 2018](https://www.nature.com/articles/s41559-018-0673-5)|
+|*Chiloscyllium punctatum*|Flow cytometry|4.83|4.73|[Hara et al., 2018](https://www.nature.com/articles/s41559-018-0673-5)|
+|*Rhincodon typus*|Flow cytometry|3.83|3.75|[Hara et al., 2018](https://www.nature.com/articles/s41559-018-0673-5)|
 |*Stegostoma tigrinum*|Flow cytometry|3.79|3.70||
 |*Chiloscyllium plagiosum*|Flow cytometry|4.96|4.85||
 |*Scyliorhinus canicula*|Flow cytometry|5.46|5.34||
@@ -121,10 +121,10 @@ Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/
 
 |Species|Cell source|Karyotype|Reference|
 |----|:----|:----:|----|
-|*Chiloscyllium punctatum*|cultured embryonic fibroblasts|2n = 106|Uno et al., 2020|
-|*Chiloscyllium plagiosum*|cultured embryonic fibroblasts|2n = 106|Uno et al., 2020|
-|*Rhincodon typus*|cultured lymphocytes|2n = 102|Uno et al., 2020|
-|*Stegostoma tigrinum*|cultured lymphocytes|2n = 102|Uno et al., 2020|
+|*Chiloscyllium punctatum*|cultured embryonic fibroblasts|2n = 106|[Uno et al., 2020](https://www.nature.com/articles/s42003-020-01373-7)|
+|*Chiloscyllium plagiosum*|cultured embryonic fibroblasts|2n = 106|[Uno et al., 2020](https://www.nature.com/articles/s42003-020-01373-7)|
+|*Rhincodon typus*|cultured lymphocytes|2n = 102|[Uno et al., 2020](https://www.nature.com/articles/s42003-020-01373-7)|
+|*Stegostoma tigrinum*|cultured lymphocytes|2n = 102|[Uno et al., 2020](https://www.nature.com/articles/s42003-020-01373-7)|
 
 
 ## Our technical basis
