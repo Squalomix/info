@@ -112,7 +112,7 @@ The chronological information about our activity before and after the launch of 
 |*Hemitrygon akajei*|qPCR|3.82|3.74||
 |*Cetorhinus maximus*||in progress|||
 |*Megachasma pelagios*|qPCR|5.81|5.68||
-|*Etrmopterus molleri*|qPCR|13.34|13.04||
+|*Etmopterus molleri*|qPCR|13.34|13.04||
 |*Okamejei kenojei*|Flow cytometry|3.40|3.33||
 
 Please cite [Nishimura et al., 2022](https://f1000research.com/articles/11-1077/v1) for the source of these records, unless stated otherwise.
