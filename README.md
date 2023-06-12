@@ -59,14 +59,14 @@ Last updated on June 13, 2023
 | Japanese bullhead shark *Heterodontus japonicus*  | O | | |  | | | |
 | Zebra bullhead shark *Heterodontus zebra*  | O | ||   | | | |
 | Japanese sleeper ray *Narke japonica*  | O | | | |  | | |
-| Frilled shark *Chlamydoselachus anguineus* | O | | |  | | | |
+| Frilled shark *Chlamydoselachus anguineus* | O | | |  | | O | O |
 | #Brown guitarfish *Rhinobatos schlegelii*  | O | | ||   | O | O |
 | Shark ray *Rhina ancylostoma*  | O | | | |  | O | |
-| #Slendertail lanternshark *Etmopterus molleri*  | O | | | |  | | |
+| #Slendertail lanternshark *Etmopterus molleri*  | O | | | |  | O | |
 | Japanese sawshark *Pristiophorus japonicus*  | O | | ||   | | |
 | Japanese angelshark *Squatina japonica*  | O | | ||   | O | O |
 | Shortspine spurdog *Squalus mitsukurii*  | O | | ||   | | |
-| White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | |
+| White-bellied softnose skate *Rhinoraja longicauda*  | O | | ||   | O | O |
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
 | Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
