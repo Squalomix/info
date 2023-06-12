@@ -72,7 +72,7 @@ Last updated on June 13, 2023
 | Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
 
 
-This list includes some species for which our collaborators take an initiative in genome sequencing.
+This list includes some species for which our collaborators take an initiative in genome sequencing. Also see the species list on [Genomes on a Tree (GoaT)](https://goat.genomehubs.org/search?query=long_list%3Dsqualomix&result=taxon&summaryValues=count&taxonomy=ncbi&offset=0&fields=assembly_level%2Cassembly_span%2Cc_value%2Cgenome_size%2Clong_list%2Cother_priority%2Cfamily_representative&includeEstimates=false#long_list%3Dsqualomix)
 
 ## History
 The chronological information about our activity before and after the launch of the project is included below. Previously, we reported interim results of our genome analysis on three shark species (brownbanded bamboo shark, cloudy catshark, and whale shark), together with tissue-level gene expression profiles and epigenomic marks of the chromatin regulator CTCF ([Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://www.nature.com/articles/s41559-018-0673-5)). Please refer to the introductory paragraphs of this article in 2018 for the information about ealirer genomic studies.
