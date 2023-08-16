@@ -50,7 +50,7 @@ Last updated on June 13, 2023
 | #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    |  | O |
 | Blue shark *Prionace glauca* | O | O | | |  | O | O |
 | Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O |
-| Porbeagle shark *Lamna nasus* |  |  | | |  |  |  |
+| Porbeagle shark *Lamna nasus* |  |  | | |  | O |  |
 | Basking shark  *Cetorhinus maximus*  |  | O | O | |   |  |  |
 | Coral catshark *Atelomycterus marmoratus*  | O | ||   | | | |
 | Sandbar shark *Carcharhinus plumbeus*  | O | | | ||   | |
