@@ -83,7 +83,7 @@ The chronological information about our activity before and after the launch of 
 |2023 Aug| Our [original paper](https://genome.cshlp.org/content/33/9/1527) reporting first elasmobranch sex chromosome DNA sequences (in zebra shark and whale shark) published in Genome Res.|
 |2023 Apr| Our activity introduced at on-site conference [9th International Symposium on the Biology of Vertebrate Sex Determination](https://www.vsd-hawaii.com/) |
 |2023 Mar| Our [original paper](https://academic.oup.com/gbe/article/15/3/evad028/7048455) reporting retained egg yolk protein (vitellogenin) repertoires in viviparous sharks published in GBE|
-|   | Our [original paper](https://www.pnas.org/doi/10.1073/pnas.2220728120) reporting unique 'blue-shift' mechanism of whale shark rhodopsin published in PNAS|
+|2023 Mar| Our [original paper](https://www.pnas.org/doi/10.1073/pnas.2220728120) reporting unique 'blue-shift' mechanism of whale shark rhodopsin published in PNAS|
 |2022 Oct| Presentation about our activity at [Virtual Conference Sharks International 2022](https://www.si2022.org/)  |
 |2022 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2022](https://virtual.venue-av.co.uk/e/bg2022)  |
 |2022 Sep| Our [position paper published in F1000Res](https://f1000research.com/articles/11-1077)  |
