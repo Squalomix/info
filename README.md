@@ -79,6 +79,8 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
+|2023 December| Our activity introduced at [MBSJ conference](https://www2.aeplan.co.jp/mbsj2023/en-index.html) in Kobe  |
+|2023 August| Our [original paper](https://genome.cshlp.org/content/33/9/1527) reporting first elasmobranch sex chromosome DNA sequneces (in zebra shark and whale shark) published in Genome Res.|
 |2023 April| Our activity introduced at on-site conference [9th International Symposium on the Biology of Vertebrate Sex Determination](https://www.vsd-hawaii.com/) |
 |2022 Oct| Presentation about our activity at [Virtual Conference Sharks International 2022](https://www.si2022.org/)  |
 |2022 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2022](https://virtual.venue-av.co.uk/e/bg2022)  |
