@@ -122,7 +122,7 @@ For our previous publication in 2018, we produced all short read sequence data i
 
 We released the 'iconHi-C' (inexpensive and controllable Hi-C) protocol for adaptable Hi-C data acquisition ([Kadota et al., 2018. GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158)) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences are validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs ([Uno et al., 2020. Commun. Biol. 3: 652](https://www.nature.com/articles/s42003-020-01373-7)). 
 
-Most recently, [a technical note for Hi-C scaffolding using YaHS[(https://github.com/TkNiw/Note-for-YaHS), based on our internal benchmarking by Taiki Niwa, has been made available. 
+Most recently, [a technical note for Hi-C scaffolding using YaHS](https://github.com/TkNiw/Note-for-YaHS), based on our internal benchmarking by Taiki Niwa, has been made available. 
 
 ## Efforts by other parties
 There are other parties working on chondrichthyan genes and genomes and other kinds of molecular data production. Included below are links to some of those efforts.<br>
