@@ -70,7 +70,7 @@ Last updated on July 4, 2024
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
 | Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
-| Yellow-spotted fanray *Platyrhina tangi* |  |  | | |  |  | O |
+| Yellow-spotted fanray *Platyrhina tangi* |  |  | | |  | O | O |
 | Goblin shark *Mitsukurina owstoni* |  |  | | |  |  |  |
 
 
