@@ -39,7 +39,7 @@ H, PacBio HiFi reads<br>
 C, Hi-C reads (or reads with Hi-C derivatives like Omni-C)<br>
 #, Our flagship species<br>
 
-Last updated on August 16, 2023
+Last updated on July 4, 2024
 
 | Species |T|S|X|N|P|H|C|
 |----|----|----|----|----|----|----|----|
@@ -70,6 +70,7 @@ Last updated on August 16, 2023
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
 | Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
+| Yellow-spotted fanray *Platyrhina tangi* |  |  | | |  |  | O |
 | Goblin shark *Mitsukurina owstoni* |  |  | | |  |  |  |
 
 
