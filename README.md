@@ -47,7 +47,7 @@ Last updated on August 16, 2023
 | Whale shark  *Rhincodon typus* | O | O | O | O |   |  | O |
 | #Cloudy catshark  *Scyliorhinus torazame*  | O | O | |   | | O | O |
 | #Zebra shark  *Stegostoma tigrinum (fasciatum)*  | O | O |  ||   | O | O |
-| #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    |  | O |
+| #Megamouth shark  *Megachasma pelagios*  | O | O | O ||    | O | O |
 | Blue shark *Prionace glauca* | O | O | | |  | O | O |
 | Short fin mako *Isurus oxyrinchus* |  | O | | |  | O | O |
 | Porbeagle shark *Lamna nasus* |  |  | | |  | O |  |
@@ -70,6 +70,7 @@ Last updated on August 16, 2023
 | Silver chimaera *Chimaera phantasma* | O |  | | | O |  | O |
 | Spotted ratfish *Hydrolagus colliei* |  |  | | |  |  | O |
 | Greenland shark *Somniosus microcephalus* |  |  | | |  |  | O |
+| Goblin shark *Mitsukurina owstoni* |  |  | | |  |  |  |
 
 
 This list includes some species for which our collaborators take an initiative in genome sequencing. Also see the species list on [Genomes on a Tree (GoaT)](https://goat.genomehubs.org/search?query=long_list%3Dsqualomix&result=taxon&summaryValues=count&taxonomy=ncbi&offset=0&fields=assembly_level%2Cassembly_span%2Cc_value%2Cgenome_size%2Clong_list%2Cother_priority%2Cfamily_representative&includeEstimates=false#long_list%3Dsqualomix).
