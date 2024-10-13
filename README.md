@@ -147,3 +147,5 @@ Newly formulated on October 13, 2024
 We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect researchers outside the Squalomix consortium to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached.
 
 Unlike many genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release.
+
+There have been numerous instances where genome assemblies of cartilaginous fish released by other consortia, particularly VGP, have been used without proper acknowledgment in publications and preprints, disregarding the policies set by each of those consortia. Our consortium takes such cases seriously and expects the broader cartilaginous fish genomics community to uphold higher standards of data usage ethics.
