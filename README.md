@@ -140,3 +140,10 @@ There are other parties working on chondrichthyan genes and genomes and other ki
 [Shark References](https://www.shark-references.com/)<br>
 [Eschmeyer's Catalog of Fishes](https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp?_gl=1*15hauts*_gcl_au*MTc3Mzk4NzQ1OS4xNzI0ODg4Mzk2*_ga*ODU0OTE5ODYyLjE3MjQ4ODgzOTY.*_ga_6Y72VP61VZ*MTcyNDg4ODM5NS4xLjAuMTcyNDg4ODM5OC41Ny4wLjA.)<br>
 
+## Squalomix data use policy
+
+Newly formulated on October 13, 2024
+
+We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect researchers outside the Squalomix consortium to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached.
+
+Unlike many genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release.
