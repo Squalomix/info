@@ -82,6 +82,11 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
+|2025 Jun| Partnership with [Shark-References](https://shark-references.com/))  |
+|2025 Jun| Partnership with [European Reference Genome Atlas (ERGA)](https://shark-references.com/))  |
+|2025 Jun| Presentation about our activity at [2025 ASI-IPFC12](https://www.2025asi-ipfc12.tw/site/page.aspx?pid=901&sid=1597&lang=en)  |
+|2025 Apr| Presentation about our activity at [PacBio PRISM 2025 at Da Nang, Vietnam](https://events.pacb.com/prism2025-danang)  |
+|2025 Apr| Our activity introduced to [NIG Open House 2025](https://www.nig.ac.jp/koukai/koukai2025/)  |
 |2024 Oct| Presentation about our activity at [Virtual Conference Biodiversity Genomics 2024](https://www.biodiversitygenomicsconference.org/)  |
 |2024 Oct| Presentation about our activity at [International Workshop on Chondrichthyan Development and Genomics](https://armi.org.au/international-workshop-on-chondrichthyan-development-and-genomics-2024/)  |
 |2023 Dec| Our activity introduced at [MBSJ conference](https://www2.aeplan.co.jp/mbsj2023/en-index.html) in Kobe  |
