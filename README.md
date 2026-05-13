@@ -17,7 +17,7 @@ For updates, follow us on [X](https://X.com/Squalomix4earth).
 ![logo](Squalomix-logo5.JPG)
 
 ## Why sharks (and rays)?
-The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing absence of their whole genome sequence information, resulting from the elusiveness and low fecundity of those animals, as well as the large and repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for genome sequencing. 
+The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing absence of their whole genome sequence information, due to the elusive nature and low fecundity of these animals, as well as their large, repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for genome sequencing. 
 
 ## Access to our products
 [Data archive gateway](https://transcriptome.riken.jp/squalomix/)<br>
@@ -35,7 +35,7 @@ Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium
 
 
 ## Species
-We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrifices of adults as well as to fuel laboratory experimentation. Please see [this post at Nature Research Community](https://communities.springernature.com/posts/decoding-shark-genomes-why-did-we-choose-those-species) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of April 2021 is provided below (also, the list as of September 2020 available in the introductory movie linked above). 
+We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrificing adults, while also supporting laboratory experimentation. Please see [this post at Nature Research Community](https://communities.springernature.com/posts/decoding-shark-genomes-why-did-we-choose-those-species) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of April 2021 is provided below (also, the list as of September 2020 available in the introductory movie linked above). 
 
 Status of sequencing data acquisition<br>
 T, transcriptome reads<br>
@@ -90,6 +90,10 @@ The chronological information about our activity before and after the launch of 
 
 |Year-Month| Event|
 |----|----|
+|2026 May| Our PCR-based sexing preprint released at bioRxiv |
+|2026 May| Our activity introduced at [Sharks International 2026](https://si2026.org/)  |
+|2025 Aug| Our activity introduced at [International Basking Shark Conference](https://www.baskingshark.ie/conference2025)  |
+|2025 Aug| Our activity introduced at [Congress of the European Society of Evolutionary Biology (ESEB)](https://eseb2025.com/)  |
 |2025 Jun| Partnership with [Shark-References](https://shark-references.com/)  |
 |2025 Jun| Partnership with [European Reference Genome Atlas (ERGA)](https://shark-references.com/)  |
 |2025 Jun| Presentation about our activity at [2025 ASI-IPFC12](https://www.2025asi-ipfc12.tw/site/page.aspx?pid=901&sid=1597&lang=en)  |
@@ -138,7 +142,7 @@ The contents of this section have been moved to the repository [C-value](https:/
 ## Our technical basis
 For our previous publication in 2018, we produced all short read sequence data in-house at the DNA Analysis Facility operated inside the [Laboratory for Phyloinformatics, RIKEN BDR](https://www.bdr.riken.jp/en/research/labs/kuraku-s/). Our genome assembly also employed mate-pair reads produced with [our protocol guide 'iMate'](https://www.slideshare.net/xsighex/imate-protocol-guide-version-20).
 
-We released the 'iconHi-C' (inexpensive and controllable Hi-C) protocol for adaptable Hi-C data acquisition ([Kadota et al., 2018. GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158)) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences are validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs ([Uno et al., 2020. Commun. Biol. 3: 652](https://www.nature.com/articles/s42003-020-01373-7)). 
+We have released the 'iconHi-C' (inexpensive and controllable Hi-C) protocol for versatile Hi-C data acquisition ([Kadota et al., 2018. GigaScience 9: giz158](https://doi.org/10.1093/gigascience/giz158)) and performed Hi-C scaffolding to obtain chromosome-scale sequences for shark genomes. The obtained sequences are validated with original high-fidelity karyotype data provided by our cell culture protocol for elasmobranchs ([Uno et al., 2020. Commun. Biol. 3: 652](https://www.nature.com/articles/s42003-020-01373-7)). 
 
 Most recently, [a technical note for Hi-C scaffolding using YaHS](https://github.com/TkNiw/Note-for-YaHS), based on our internal benchmarking by Taiki Niwa, has been made available. 
 
@@ -152,12 +156,14 @@ There are other parties working on chondrichthyan genes and genomes and other ki
 ## Other useful resources
 [Shark References](https://www.shark-references.com/)<br>
 [Eschmeyer's Catalog of Fishes](https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp?_gl=1*15hauts*_gcl_au*MTc3Mzk4NzQ1OS4xNzI0ODg4Mzk2*_ga*ODU0OTE5ODYyLjE3MjQ4ODgzOTY.*_ga_6Y72VP61VZ*MTcyNDg4ODM5NS4xLjAuMTcyNDg4ODM5OC41Ny4wLjA.)<br>
+[Listing of developmental staging studies on a chondrichthyan species](https://github.com/Squalomix/devstage/)<br>
+[AnAge Database](https://genomics.senescence.info/species/browser.php?type=2&name=Chondrichthyes#) to query longevity records of chondrichthyan species<br>
 
 ## Squalomix data use policy
 
-Newly formulated on October 13, 2024
+Newly formulated on May 13, 2026
 
-We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect researchers outside the Squalomix consortium to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached.
+We often release our sequence data once we begin manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect researchers outside the Squalomix consortium to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached.
 
 Unlike many genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release. Please understand that we do not necessarily release data as openly as other consortia.
 
