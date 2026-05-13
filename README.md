@@ -159,7 +159,7 @@ There are other parties working on chondrichthyan genes and genomes and other ki
 
 ## Squalomix data use policy
 
-Newly formulated on May 13, 2026
+Newly formulated on October 13, 2024 and modified on May 13, 2026
 
 We often release our sequence data once we begin manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect researchers outside the Squalomix consortium to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached.
 
