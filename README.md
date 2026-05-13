@@ -20,11 +20,8 @@ For updates, follow us on [X](https://X.com/Squalomix4earth).
 The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing absence of their whole genome sequence information, due to the elusive nature and low fecundity of these animals, as well as their large, repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for genome sequencing. 
 
 ## Access to our products
-[Data archive gateway](https://transcriptome.riken.jp/squalomix/)<br>
-[BLAST-based sequence search](https://transcriptome.riken.jp/squalomix/blast/)<br>
 [NCBI BioProject entry](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707598) <br>
 Gene expression profiles based on published RNA-seq data ([cloudy catshark](https://figshare.com/articles/dataset/Scyliorhinus_torazame_gene_expression_profiles_v1/20549586); [brownbanded bamboo shark](https://figshare.com/articles/dataset/Chilocyllium_punctatum_gene_expression_profiles_v1/20549634))<br>
-[Zebra shark genome browser powered by JBrowse2](https://transcriptome.riken.jp/squalomix/jbrowse2_sfasciatum/?session=local-default)<br>
 
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).<br> 
 
