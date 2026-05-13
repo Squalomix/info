@@ -1,9 +1,17 @@
 # Squalomix - shark genomics and beyond
 
 ## What is 'Squalomix'?
-Our project Squalomix aims at unveiling the unique evolutionary trajectory of sharks and rays and is sustained by tight collaborations involving an academic sequencing core facility and multiple public aquariums. By means of multimodal omics and molecular evolutionary approaches, it tackles various biological questions including morphological evolution, sensory systems, and reproduction including sex determination. The project overview is presented in [this introductory movie](https://youtu.be/3VG6t4Bqt8w) prepared for [Biodiversity Genomics 2020 Conference](https://www.sanger.ac.uk/science/biodiversity-genomics-2020/) held online in October 2020. Very importantly, we don't stick to performing de novo sequencing and are rather open to collaborating with other projects for contributing complimentary samples and analyses in order to maximize existing resources. Please find more details in [our position paper](https://doi.org/10.12688/f1000research.123591.1).
+​Cartilaginous fishes (sharks, rays, chimaeras) charted an evolutionary trajectory distinct from other lineages. ​Not simply generalized as "fish," these species require dedicated research frameworks to decode their lives. Since 2020, Squalomix has met this need sustainably. Partnering with public aquariums, marine stations, and allied consortia, we study diverse species—from migratory pelagic sharks to our core focus, Japanese coastal biodiversity. Crucially, this collaborative hub incubates the early-career researchers cycling through our operations.
 
-For updates, follow us on [Twitter](https://twitter.com/Squalomix4earth).
+​We integrate genome data with rigorous laboratory solutions. To navigate the highly variable genome organization across cartilaginous fishes, we anchor our sequencing output in empirical cellular-level analysis, enabling karyotyping and nuclear DNA content measurement. This biology-first foundation yields profound insights, including unveiling the evolutionary organization of their sex chromosomes, now recognized as the oldest among vertebrates.
+
+​Furthermore, we move beyond sequencing and computation. Informatically derived evolutionary hypotheses are reconstructively verified via experiments. Our in vitro systems embody this approach, enabling the exploration of unique adaptations, as demonstrated in our research on whale shark deep-sea vision.
+
+​Our scope spans from contributing to genetic monitoring of wild populations to deeply decoding their unique lifestyles. By deciphering the genomic grammar that translates the information encoded in DNA into higher-order biological phenomena—such as an organism's pace of life—we seek to elucidate the fundamental principles driving the vertebrate tree of life.
+
+Please find more details in [our position paper](https://doi.org/10.12688/f1000research.123591.1).
+
+For updates, follow us on [X](https://X.com/Squalomix4earth).
 
 
 ![logo](Squalomix-logo5.JPG)
