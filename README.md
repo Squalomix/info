@@ -16,9 +16,6 @@ Please find more details in [our position paper](https://doi.org/10.12688/f1000r
 
 For updates, follow us on [X](https://X.com/Squalomix4earth).
 
-[![Watch the video](Squalomix-Movie2026-Thumbnail.png)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s)
-
-
 ## Why sharks (and rays)?
 The taxon Elasmobranchii (sharks and rays) is one of the most long-established evolutionary lineages of vertebrates severely underrepresented in molecular-level research. This limitation is attributable to the long-standing absence of their whole genome sequence information, due to the elusive nature and low fecundity of these animals, as well as their large, repetitive genomes. Their peculiar body fluid composition has also hindered routine cell culturing that is required for chromosome analysis which serves as an indispensable reference for genome sequencing. 
 
@@ -28,11 +25,7 @@ Gene expression profiles based on published RNA-seq data ([cloudy catshark](http
 
 Citation: [Nishimura et al. 'Squalomix: shark and ray genome analysis consortium and its data sharing platform' F1000Res, 2022](https://f1000research.com/articles/11-1077).<br> 
 
-
-[![Squalomix trailer movie on YouTube](https://img.youtube.com/vi/_xXfpIc7l2E/0.jpg)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s)
-
-
-
+[![Watch the video](Squalomix-Movie2026-Thumbnail.png)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s)
 
 ## Species
 We first chose two egg-laying species, brownbanded bamboo shark (*Chiloscyllium punctatum*) and cloudy catshark (*Scyliorhinus torazame*), to facilitate sustainable sampling without sacrificing adults, while also supporting laboratory experimentation. Please see [this post at Nature Research Community](https://communities.springernature.com/posts/decoding-shark-genomes-why-did-we-choose-those-species) for more details of our species choice. Currently, we are working on >10 more species for transcriptome or/and genome sequencing, and the speices list as of April 2021 is provided below (also, the list as of September 2020 available in the introductory movie linked above). 
