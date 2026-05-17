@@ -16,7 +16,7 @@ Please find more details in [our position paper](https://doi.org/10.12688/f1000r
 
 For updates, follow us on [X](https://X.com/Squalomix4earth).
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](Squalomix-Movie2026-Thumbnail.png)](https://www.youtube.com/watch?v=tyPxEsTeCg8&t=4s)
 
 
 ## Why sharks (and rays)?
